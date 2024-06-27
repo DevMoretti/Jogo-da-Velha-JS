@@ -7,7 +7,7 @@ Este projeto consiste na implementação de um jogo da velha utilizando JavaScri
 *Desafios Encontrados*
 
 *Jogabilidade*
-foi muito dificil garantir que o estado do jogo fosse corretamente atualizado e sincronizado com a interface do usuário. Tentei varios jeitos específicos para verificar as condições de vitória e empate, além de métodos para atualizar as pontuações e o histórico do jogo.
+achei complexo garantir que o estado do jogo fosse corretamente atualizado e sincronizado com a interface do usuário. Tentei varios jeitos específicos para verificar as condições de vitória e empate, além de métodos para atualizar as pontuações e o histórico do jogo.
 
 *Manipulação do DOM*
 não foi facil para atualizar a interface do usuário, especialmente na hora de garantir que fossem corretamente registrados e manipulados. usei `querySelector` e `getElementById` para selecionar e atualizar os elementos do DOM.
