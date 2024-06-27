@@ -14,4 +14,6 @@ não foi facil para atualizar a interface do usuário, especialmente na hora de 
 
 *Local Storage*
 deixar que as pontuações e o histórico fossem corretamente salvos e carregados do `localStorage` achei complicado. coloquei métodos específicos para salvar e carregar os dados de maneira eficiente e mesmo assim não está do jeito que eu queria.
+
+*DIAGRAMA DE CLASSES*
 ![Captura de tela 2024-06-27 195458](https://github.com/DevMoretti/Jogo-da-Velha-JS/assets/164955755/5b3d7ffa-f0d0-4685-8b67-8c9ec72fbcb6)
